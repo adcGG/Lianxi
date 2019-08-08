@@ -120,4 +120,6 @@ class RandomUserAgentMiddleware(object):
         #   installed downloader middleware will be called
         request.headers['User-Agent'] = random.choice(user_agents)
 
-
+class ProxyMiddleware(object):
+    def process_request(self,request,spider):
+        request.meta['proxy'] = "http://47.104.172.108:8118"
