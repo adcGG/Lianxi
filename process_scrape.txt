@@ -1,0 +1,1176 @@
+
+
+<!DOCTYPE html>
+<!--[if lte IE 7]>     <html lang="zh-CN" class="no-js lt-ie10 lt-ie9 lt-ie8 mfcss"> <![endif]-->
+<!--[if IE 8]>         <html lang="zh-CN" class="no-js lt-ie10 lt-ie9 mfcss"> <![endif]-->
+<!--[if IE 9]>         <html lang="zh-CN" class="no-js lt-ie10 mfcss"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="zh-CN" class="no-js mfcss">
+<!--<![endif]-->
+<head><title>
+	首页|麦德龙官方网站 | METRO.cn
+</title><meta id="UIViewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><meta id="UIFormatDetection" name="format-detection" content="telephone=no" /><meta id="googleMetaTag" name="google-site-verification" content="v2XtRFDaef" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link rel="canonical" href="http://www.metro.cn/" /><meta property="og:title" content="首页 | METRO.cn" /><meta property="og:description" content="麦德龙官方网站提供行业方案，全国分店，促销活动等官方信息。麦德龙以高质量和食品安全而闻名。自有品牌和进口食品是麦德龙的最大特色。" /><meta property="og:site_name" content="www.metro.cn" /><meta property="og:locale" content="zh_CN" /><meta property="og:locale:alternate" content="en" /><link id="UIStylesBlessedLink" rel="stylesheet" type="text/css" href="/css/style-blessed1.css?v=636899112740814674" /><link id="UIStylesBlessedFontLink" rel="stylesheet" type="text/css" href="/services/fonts.ashx?la=cn&amp;v=636899112740814674" /><link id="UIStylesLink" rel="stylesheet" type="text/css" href="/css/style.css?v=636899112740814674" />
+        <link rel="stylesheet" type="text/css" href="/css/metro-ux.css?v=636899112740814674" />
+    
+    <style id="antiClickjack">
+        body {
+            display: none !important;
+        }
+    </style>
+    <script type="text/javascript">
+        if (self === top) { var antiClickjack = document.getElementById("antiClickjack"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; }
+    </script>
+    
+<meta name="VIcurrentDateTime" content="636978387084533869" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+    <!-- Modules SDK -->
+    
+            <link rel='apple-touch-icon' type='image/png' sizes='57x57' href='/favicon/metro-apple-touch-icon-57x57.png'>
+        
+            <link rel='apple-touch-icon' type='image/png' sizes='60x60' href='/favicon/metro-apple-touch-icon-60x60.png'>
+        
+            <link rel='apple-touch-icon' type='image/png' sizes='72x72' href='/favicon/metro-apple-touch-icon-72x72.png'>
+        
+            <link rel='apple-touch-icon' type='image/png' sizes='76x76' href='/favicon/metro-apple-touch-icon-76x76.png'>
+        
+            <link rel='apple-touch-icon' type='image/png' sizes='114x114' href='/favicon/metro-apple-touch-icon-114x114.png'>
+        
+            <link rel='apple-touch-icon' type='image/png' sizes='120x120' href='/favicon/metro-apple-touch-icon-120x120.png'>
+        
+            <link rel='apple-touch-icon' type='image/png' sizes='144x144' href='/favicon/metro-apple-touch-icon-144x144.png'>
+        
+            <link rel='apple-touch-icon' type='image/png' sizes='152x152' href='/favicon/metro-apple-touch-icon-152x152.png'>
+        
+            <link rel='apple-touch-icon' type='image/png' sizes='180x180' href='/favicon/metro-apple-touch-icon-180x180.png'>
+        
+            <link rel='icon' type='image/png' sizes='32x32' href='/favicon/metro-favicon-32x32.png'>
+        
+            <link rel='icon' type='image/png' sizes='192x192' href='/favicon/metro-android-chrome-192x192.png'>
+        
+            <link rel='icon' type='image/png' sizes='96x96' href='/favicon/metro-favicon-96x96.png'>
+        
+            <link rel='icon' type='image/png' sizes='16x16' href='/favicon/metro-favicon-16x16.png'>
+        
+            <link rel='mask-icon' href='/favicon/metro-safari-pinned-tab.svg' color='#1a3c7b'>
+        
+            <meta name='msapplication-TileImage' content='/favicon/metro-mstile-144x144.png'>
+        <meta name="msapplication-TileColor" content="#1a3c7b" /><meta name="theme-color" content="#ffffff" />
+        <!--[if lte IE 9]>
+			<script src="/js/html5shiv-printshiv.js"></script>
+			<script src="/js/respond.min.js"></script> 
+			<script src="/js/matchMedia.addListener.js"></script>
+            <script>!window.addEventListener&&function(e,t,n,r,i,s,o){e[r]=t[r]=n[r]=function(e,t){var n=this;o.unshift([n,e,t,function(e){e.currentTarget=n,e.preventDefault=function(){e.returnValue=!1},e.stopPropagation=function(){e.cancelBubble=!0},e.target=e.srcElement||n,t.call(n,e)}]),this.attachEvent("on"+e,o[0][3])},e[i]=t[i]=n[i]=function(e,t){for(var n=0,r;r=o[n];++n)if(r[0]==this&&r[1]==e&&r[2]==t)return this.detachEvent("on"+e,o.splice(n,1)[0][3])},e[s]=t[s]=n[s]=function(e){return this.fireEvent("on"+e.type,e)}}(Window.prototype,HTMLDocument.prototype,Element.prototype,"addEventListener","removeEventListener","dispatchEvent",[])</script>
+        <![endif]-->
+        <script type="text/javascript" src="/js/picturefill.min.js"></script>
+    
+
+    <script type="text/javascript">
+	    /**
+			* IE10 WP8 bug fix
+			*/
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            var msViewportStyle = document.createElement('style');
+            msViewportStyle.appendChild(
+                document.createTextNode(
+                    '@-ms-viewport{width:auto!important}'
+                )
+            );
+            document.getElementsByTagName('head')[0].appendChild(msViewportStyle);
+        }
+
+        if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+            document.getElementsByTagName('html')[0].className += ' safari';
+        }
+
+        if ((navigator.appVersion.indexOf('Win') != -1) && navigator.userAgent.indexOf('Chrome') != -1) {
+            document.getElementsByTagName('html')[0].className += ' win-chrome';
+        }
+    </script>
+
+    
+<!--Google Analytics Tag Manager -->
+<script type="text/javascript">
+    dataLayer = [
+    {
+        "GA360_pageName": "首页|CN|CurrentCMS|",
+        "GA360_pageTitle": "首页|homepage",
+        "GA360_country": "CN",
+        "GA360_storeId": "00070",
+        "GA360_templateType": "homepage",
+        "GA360_loggedIn": "not-logged-in",
+        "GA360_solution": "CurrentCMS",
+        "GA360_userInterface": "responsive",
+        "GA360_userType": "anonymous",
+        "GA360_salesLine": "metro",
+        "GA360_languageSelected": "zh-CN",
+        "GA360_errorPage": "no-error",
+        "GA360_statusCode": "none",
+        "GA360_storeName": "宁波海曙商场"
+    }];
+
+</script>
+
+<script type="text/javascript">
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TVRLF44');
+
+</script>
+<!--End Google Analytics Tag Manager -->
+<meta name="description" content="麦德龙官方网站提供行业方案，全国分店，促销活动等官方信息。麦德龙以高质量和食品安全而闻名。自有品牌和进口食品是麦德龙的最大特色。" /><meta name="keywords" content="麦德龙,Metro,麦德龙官方网站,麦德龙官网,麦德龙超市,麦德龙促销活动,进口商品超市,进口商品,进口葡萄酒,进口产品,进口食品超市,进口超市,进口奶粉,食品安全,食品可追溯性,食品卫生" /></head>
+<body id="body" class="wrapper metro homepage">
+    <input name="hiddenToken" type="hidden" id="hiddenToken" />    
+    
+	
+
+<!-- Google Analytics Tag Manager (noscript) -->
+<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVRLF44" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Analytics Tag Manager (noscript) -->
+
+    
+    
+
+    <form method="post" action="/" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Q8Y/bxoXTUAj5cVarv/hocRVUi+uV3Ns4D4YDHJ9/oPMdT//CQyZ/Ekgf3YtsmpZQD7olhrQhiwCj3nulff6iqIIxKRaq2OALxLaYMAKq7piZu/XJYXRNqqvp6//2aZru3GVIc6ZD4OM2yJyIYNYBEGntk0/dA5ZvzNHwgcegoEDpHLX" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6DC92997" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vl7TpxVOyYehWGpHVZ/hfCvMotMQOwdGWpXZC1W/yhXC5fWDJjBOsSHcdrr0IIY3SSx4Qpx/DjGWacyqDLNmv3rl6/M8m2SlAjx/RHvOB1HeIVf+4h15cBjAQxIdp3mSKp09+Z8i0tL8BZRwCYYjCZEbZUB1ztODegl1pwVYaNI0XDUIkYp7cuQxAp+Qp9yzBhK670k+FeyxsLfM8T5Xk+tMSzU4E/EzLf4yy1yrxsDCjDfq8tDCz6ErGotANVHbcJB0phXLnwvtTPft2zWWG1hopos=" />
+</div>
+        <noscript id="ctl12_uiNoScript">
+        <div id="ctl12_uiIncompatible" class="incompatible">
+            <div class="container">
+                <div class="info">
+                    <p class="h2">
+                        <span style="font-size: 13px;">因为你的浏览器版本太低，我们暂时关闭了某些高级功能。</span>
+                    </p>
+                    <p>
+                        
+                    </p>
+                </div>
+                <a id="ctl12_uiHypBrowserPage"><span id="ctl12_uiSpIcon" class="micon icon-"></span><span style="font-size: 13px;">建议你升级或使用适配更好的浏览器</span></a>
+                <span class="gicon circle_exclamation_mark"></span>
+            </div>
+        </div>
+    </noscript>
+
+        
+
+<!-- SC: HOMEPAGE -->
+
+<div id="container" class="container m-page m-page--lightBlue m">
+    <div class="off-canvas-container">
+        
+
+
+<header class="m-header m-header-isFixed">
+
+    <div class="m-header-inner">
+        <div class="m-header-toggle-menu">
+            <span class="open active">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" class="m-icon white">
+                    <path class="cls-1" d="M26.9708868,19.4955178 L31.8656545,27.5058173 C32.1547189,27.978872 32.0021121,28.5909444 31.5247977,28.8729194 C31.0474832,29.1548943 30.4262103,28.9999936 30.1371459,28.5269389 L25.1627517,20.3863305 C24.1849301,20.7399988 23.128403,20.9330573 22.0261068,20.9330573 C16.9995923,20.9330573 12.9247972,16.9186057 12.9247972,11.9665286 C12.9247972,7.01445162 16.9995923,3 22.0261068,3 C27.0526213,3 31.1274164,7.01445162 31.1274164,11.9665286 C31.1274164,15.1224694 29.472452,17.8975967 26.9708868,19.4955178 Z M1,8 L9,8 C9.55228475,8 10,8.44771525 10,9 C10,9.55228475 9.55228475,10 9,10 L1,10 C0.44771525,10 6.76353751e-17,9.55228475 0,9 C-6.76353751e-17,8.44771525 0.44771525,8 1,8 Z M1,16 L10,16 C10.5522847,16 11,16.4477153 11,17 C11,17.5522847 10.5522847,18 10,18 L1,18 C0.44771525,18 6.76353751e-17,17.5522847 0,17 C-6.76353751e-17,16.4477153 0.44771525,16 1,16 Z M1,24 L15,24 C15.5522847,24 16,24.4477153 16,25 C16,25.5522847 15.5522847,26 15,26 L1,26 C0.44771525,26 6.76353751e-17,25.5522847 0,25 C-6.76353751e-17,24.4477153 0.44771525,24 1,24 Z M22.0261068,18.9404954 C25.9356181,18.9404954 29.1049032,15.8181441 29.1049032,11.9665286 C29.1049032,8.11491318 25.9356181,4.99256192 22.0261068,4.99256192 C18.1165955,4.99256192 14.9473104,8.11491318 14.9473104,11.9665286 C14.9473104,15.8181441 18.1165955,18.9404954 22.0261068,18.9404954 Z"></path></svg>
+            </span>
+            <span class="close">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" class="m-icon white">
+                    <path class="cls-1" d="M17.41,16l7.29-7.29a1,1,0,0,0-1.41-1.41L16,14.59,8.71,7.29A1,1,0,0,0,7.29,8.71L14.59,16,7.29,23.29a1,1,0,1,0,1.41,1.41L16,17.41l7.29,7.29a1,1,0,0,0,1.41-1.41Z"></path></svg>
+            </span>
+
+        </div>
+        <div class="m-header-logo">
+            <a id="pageph_0_UIHeader_ctl02_ControlHomepageLink" href="http://www.metro.cn/"><img id="pageph_0_UIHeader_ctl02_UIHeaderLogo" class="m-custom-logo" alt="Logo" class="m-logo m-logo-isSmall" src="Sublayouts/Shared/Controls/Components/Headers/www.metro.cn/~/media/CN-Metro/logo/logo-header/METRO-LOGO-for_-_website.png" /></a>
+        </div>
+
+        <div class="m-header-storeLocator">
+            <div class="m-compositeDropdown">
+    <div class="m-compositeDropdown-trigger white">
+
+        <svg id="Ebene_1" viewBox="0 0 32 32" data-name="Ebene 1" class="m-icon m-compositeDropdown-triggerIcon white" style="font-size: 1.25rem;">
+            <defs></defs>
+            <path class="cls-1" d="M16,32a1,1,0,0,1-.59-.19c-.5-.36-12.15-8.89-12.15-18.42C3.26,5.76,8.74,0,16,0S28.74,5.76,28.74,13.39c0,9.53-11.66,18.06-12.15,18.42A1,1,0,0,1,16,32ZM16,2C9.88,2,5.26,6.9,5.26,13.39c0,7.37,8.42,14.52,10.74,16.35,2.32-1.83,10.74-9,10.74-16.35C26.74,6.9,22.12,2,16,2Zm0,18.26a7.52,7.52,0,1,1,7.52-7.52A7.53,7.53,0,0,1,16,20.26Zm0-13a5.52,5.52,0,1,0,5.52,5.52A5.53,5.53,0,0,0,16,7.22Z"></path>
+        </svg>
+        <div class="m-compositeDropdown-label">
+            <span>
+                我在麦德龙
+            </span>
+            <span class="m-compositeDropdown-storename" title="宁波海曙商场">宁波海曙商场</span>
+
+            <div class="m-compositeDropdown-chevron">
+                <svg id="Ebene_1" viewBox="0 0 32 32" data-name="Ebene 1" class="m-icon white arrow" style="font-size: 0.7rem;">
+                    <defs></defs>
+                    <path class="cls-1" d="M24,12a1,1,0,0,1,.7,1.71l-8.16,8a1,1,0,0,1-1.4,0L7.3,14a1,1,0,0,1,1.4-1.43l7.14,7,7.46-7.31A1,1,0,0,1,24,12Z"></path>
+                </svg>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div role="tooltip" class="m-store-flyout">
+    <div class="m-panel store-panel">
+        <div class="store-popover-content">
+            <div class="m-panel-content">
+                <div class="m-panel-contentPadding m-panel-content-store">
+                    
+<div>
+    <h3 class="showinlargescreen"><span>我在麦德龙</span></h3>
+    <div class="margin-grid-bottom">
+        <div>
+            <div class="col-sm-4 col-xs-12 nopadding">
+                <strong class="brandbar-popover-store-storename">
+                    <a href="http://www.metro.cn/stores/ningbo-haishu">
+                    宁波海曙商场 
+                    </a>
+                </strong>
+                <p class="brandbar-popover-store-address">
+                    宁波海曙区丽园北路恒茂商业中心地下二层 
+                    <br />
+                    315000
+                    
+                </p>
+                <input type="hidden" id="storeId" value="440af3d9115c4b2299f1ec6214541ee6" />
+                <input type="hidden" id="storeUrl" value="http://www.metro.cn/stores/ningbo-haishu" />
+            </div>
+            <div class="col-sm-8 col-xs-12 nopadding">
+                <table class="table-text opening-hours">
+                    <tbody>
+                        <tr>
+                            <td><strong><span>
+                                营业时间
+                            </span></strong></td>
+                        </tr>
+                        
+                        <tr>
+                            <td>
+                                <span>
+                                    一  - 日 
+                                </span>
+                            </td>
+                            <td>
+                                06:00 - 22:00
+                            </td>
+                        </tr>
+
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <p class="brandbar-popover-store-contact">
+        
+        <a href="tel:0574-87006888" class="phone">0574-87006888<span class="contact-price"></span></a>
+        
+        <a href="mailto:service@metro.com.cn" class="email">service@metro.com.cn</a>
+        
+		<p class="contact-price"></p>
+    </p>
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div class="m-panel-footer nopadding">
+            
+
+
+<div id="storelocator" class="store-selector-popover">
+    <div class="m-input m-input-stores-list m-row m-row-store-select">
+        <div class="m-label m-col-sm2of8">
+
+            <label for="stores-list">
+                <h3>
+                    选择其他麦德龙商场
+                </h3> 
+            </label>
+
+        </div>
+        <div class="m-input-elementWrapper m-col-sm2of8 formelement">
+            <input type="text" id="digits" readonly="readonly" name="digits" 
+                   placeholder="Please Select" 
+                   autocomplete="off" value="宁波海曙商场" class="m-input-element m-select-input storename" aria-readonly="false" aria-required="false"><div>
+                
+<div class="m-select-options" style="display: none">
+    
+        <button type="button" value="730547cd9db04127a99877542d702189" tabindex="-1" class="m-select-option">
+            北京京顺路商场
+        </button>
+        
+        <button type="button" value="77d4273d14544463b62ce4c26dda4554" tabindex="-1" class="m-select-option">
+            北京十里河商场
+        </button>
+        
+        <button type="button" value="2aedad9b90c2426b8836fcd4b450f4d0" tabindex="-1" class="m-select-option">
+            北京立水桥商场
+        </button>
+        
+        <button type="button" value="f29b8eae31ec4fbc891ef3332b4b125b" tabindex="-1" class="m-select-option">
+            北京万泉河商场
+        </button>
+        
+        <button type="button" value="0c94d46d20c64aa78c6e64212df9e0cb" tabindex="-1" class="m-select-option">
+            麦德龙优品汇上海虹口江湾商场
+        </button>
+        
+        <button type="button" value="4ff022038e65465e865adcac0c75d6f8" tabindex="-1" class="m-select-option">
+            上海嘉定商场
+        </button>
+        
+        <button type="button" value="401fad939c37421dab7f32ecde5a0d5c" tabindex="-1" class="m-select-option">
+            上海金山商场
+        </button>
+        
+        <button type="button" value="3e38efe6d0124885bcd352b6965c2d20" tabindex="-1" class="m-select-option">
+            上海闵行商场
+        </button>
+        
+        <button type="button" value="68d02f3122bf4281bf721ccb726e1af4" tabindex="-1" class="m-select-option">
+            上海浦东商场
+        </button>
+        
+        <button type="button" value="0048551b09e949f2b31d9a26ffe61899" tabindex="-1" class="m-select-option">
+            上海普陀商场
+        </button>
+        
+        <button type="button" value="bf22ec537a3d4b32818502981f7ba3e6" tabindex="-1" class="m-select-option">
+            南京下关商场
+        </button>
+        
+        <button type="button" value="32462b054d494f98b4b35560dd3c819f" tabindex="-1" class="m-select-option">
+            上海松江商场
+        </button>
+        
+        <button type="button" value="042d8838bba446808114c70972bcce2c" tabindex="-1" class="m-select-option">
+            上海青浦商场
+        </button>
+        
+        <button type="button" value="7d15d8c470734ace9f7d92d2aa68c2e2" tabindex="-1" class="m-select-option">
+            广州白云商场
+        </button>
+        
+        <button type="button" value="6c54c3fa9fa64af88e500331ef7f97d4" tabindex="-1" class="m-select-option">
+            广州花都商场
+        </button>
+        
+        <button type="button" value="ad7e490831f74ee4a6bd2955e159dfa8" tabindex="-1" class="m-select-option">
+            广州番禺商场
+        </button>
+        
+        <button type="button" value="6c9f98f857964564847aa2f5baca1bc2" tabindex="-1" class="m-select-option">
+            广州天河商场
+        </button>
+        
+        <button type="button" value="11f877c9ac824477ab6add1fcc1eccfa" tabindex="-1" class="m-select-option">
+            南京雨花商场
+        </button>
+        
+        <button type="button" value="b5a9cd92f00d457ab1fc6806c88ec457" tabindex="-1" class="m-select-option">
+            杭州江干商场
+        </button>
+        
+        <button type="button" value="b79221899f9047a891078f48b7a31827" tabindex="-1" class="m-select-option">
+            杭州金家渡商场
+        </button>
+        
+        <button type="button" value="0c88f26268f14dcea49ced4570a5ad37" tabindex="-1" class="m-select-option">
+            长春净月商场
+        </button>
+        
+        <button type="button" value="47ce57c97a814702940eaf0f31a6c777" tabindex="-1" class="m-select-option">
+            长春宽城商场
+        </button>
+        
+        <button type="button" value="3b98bfb1e9ab4f1da730789bcad9d1b9" tabindex="-1" class="m-select-option">
+            济南槐荫商场
+        </button>
+        
+        <button type="button" value="ea8c8e5ad4f4468fb01ba7b2cf725863" tabindex="-1" class="m-select-option">
+            长沙开福商场
+        </button>
+        
+        <button type="button" value="723e4d857647449ca0fc89c9aea04233" tabindex="-1" class="m-select-option">
+            长沙天心商场
+        </button>
+        
+        <button type="button" value="0b68fc9e11984deb9c4577c8b8d69819" tabindex="-1" class="m-select-option">
+            长沙岳麓商场
+        </button>
+        
+        <button type="button" value="8623330ebf6e490e90e47fc90e0594a2" tabindex="-1" class="m-select-option">
+            常州天宁商场
+        </button>
+        
+        <button type="button" value="76008884e594464783c69564588c2073" tabindex="-1" class="m-select-option">
+            常州武进商场
+        </button>
+        
+        <button type="button" value="b876fe2ab63d4040adb72686a44ac422" tabindex="-1" class="m-select-option">
+            成都高新商场
+        </button>
+        
+        <button type="button" value="c812c3840f4b4f33bc0f28400f66ac8a" tabindex="-1" class="m-select-option">
+            成都锦江商场
+        </button>
+        
+        <button type="button" value="90e4dd6e670d4901a6566ab85f456221" tabindex="-1" class="m-select-option">
+            成都青羊商场
+        </button>
+        
+        <button type="button" value="f67cc9c9d49841368d9d25a4c3dfe572" tabindex="-1" class="m-select-option">
+            重庆北部新区商场
+        </button>
+        
+        <button type="button" value="ea7bee014ce3411bb35b37090181af31" tabindex="-1" class="m-select-option">
+            重庆九龙坡商场（即将开业）
+        </button>
+        
+        <button type="button" value="4c2e76704adc49f1946e9544d87071ca" tabindex="-1" class="m-select-option">
+            重庆沙坪坝商场（即将开业）
+        </button>
+        
+        <button type="button" value="aabfddd435874a8389f9542c454e4127" tabindex="-1" class="m-select-option">
+            重庆南岸商场
+        </button>
+        
+        <button type="button" value="b135527688214d57b14212c189d28541" tabindex="-1" class="m-select-option">
+            大连西岗商场
+        </button>
+        
+        <button type="button" value="4c8253cba0d04fca8dcfacfbfb7e4cb4" tabindex="-1" class="m-select-option">
+            德阳旌阳商场
+        </button>
+        
+        <button type="button" value="b50790aa6c4c4816a6b7c862fb5d3c0b" tabindex="-1" class="m-select-option">
+            东莞万江商场
+        </button>
+        
+        <button type="button" value="67c3071486fe4056bd0ec4766d1e8ada" tabindex="-1" class="m-select-option">
+            福州仓山商场
+        </button>
+        
+        <button type="button" value="365316d595b143679a86fed740c64c3d" tabindex="-1" class="m-select-option">
+            哈尔滨道里商场
+        </button>
+        
+        <button type="button" value="fc4984e6151f48ba875a6f1c7cd57ebd" tabindex="-1" class="m-select-option">
+            合肥包河商场
+        </button>
+        
+        <button type="button" value="3fe0015af49c47f29742160d20530685" tabindex="-1" class="m-select-option">
+            株洲商场
+        </button>
+        
+        <button type="button" value="690f34eacd4a40c5a2df27f428218bb5" tabindex="-1" class="m-select-option">
+            淮安商场
+        </button>
+        
+        <button type="button" value="08bead6a0e39456baae03b839eea8efb" tabindex="-1" class="m-select-option">
+            盐城商场
+        </button>
+        
+        <button type="button" value="a346db9cff9049908afb12d7fb251c14" tabindex="-1" class="m-select-option">
+            宜兴商场
+        </button>
+        
+        <button type="button" value="97a8de26170740f1983b0cbffc74d24b" tabindex="-1" class="m-select-option">
+            张家港商场
+        </button>
+        
+        <button type="button" value="550a36ba175e464eb0085a428c379549" tabindex="-1" class="m-select-option">
+            镇江开发区商场
+        </button>
+        
+        <button type="button" value="66f8bdb544474d41a222d9757097738b" tabindex="-1" class="m-select-option">
+            江西九江商场
+        </button>
+        
+        <button type="button" value="80f17e9b902c4b4a94837cf468e911f8" tabindex="-1" class="m-select-option">
+            嘉兴经济开发区商场
+        </button>
+        
+        <button type="button" value="36d21ffb071342109e56987133f60a7b" tabindex="-1" class="m-select-option">
+            昆明北辰商场
+        </button>
+        
+        <button type="button" value="5ba9eecd1c2a4f7eb620a6330667d63f" tabindex="-1" class="m-select-option">
+            昆明广福商场
+        </button>
+        
+        <button type="button" value="cacfa253c6604f8aaeaf26bc1be108ca" tabindex="-1" class="m-select-option">
+            兰州七里河商场
+        </button>
+        
+        <button type="button" value="e52301e2e5554f76a44849ba4da96b95" tabindex="-1" class="m-select-option">
+            临沂罗庄商场
+        </button>
+        
+        <button type="button" value="e4dccd43530a4ae5adf7f9dd8fcf0d1d" tabindex="-1" class="m-select-option">
+            南昌红谷商场
+        </button>
+        
+        <button type="button" value="a13e2c02b67c42eaa2c6e3288f51466a" tabindex="-1" class="m-select-option">
+            南昌青山湖商场
+        </button>
+        
+        <button type="button" value="e4959efa8dfa422a8c5e91eff3abb0ea" tabindex="-1" class="m-select-option">
+            南通崇川商场
+        </button>
+        
+        <button type="button" value="7ddedf3a38384563bfcc2210e35cc055" tabindex="-1" class="m-select-option">
+            宁波慈溪商场
+        </button>
+        
+        <button type="button" value="440af3d9115c4b2299f1ec6214541ee6" tabindex="-1" class="m-select-option">
+            宁波海曙商场
+        </button>
+        
+        <button type="button" value="28dc16e3d96a4e079d647c7b332024b0" tabindex="-1" class="m-select-option">
+            宁波鄞州商场
+        </button>
+        
+        <button type="button" value="8ec44b78cc6846b880b69dc1215d7bf3" tabindex="-1" class="m-select-option">
+            莆田荔城商场
+        </button>
+        
+        <button type="button" value="732388b3266d4e8b9572a41f0648fd0d" tabindex="-1" class="m-select-option">
+            青岛食品配送平台
+        </button>
+        
+        <button type="button" value="8197b79ea9d74bd6a3726bca19165b6c" tabindex="-1" class="m-select-option">
+            青岛黄岛商场
+        </button>
+        
+        <button type="button" value="56dd91d87c9545a89df6cf51cd0de176" tabindex="-1" class="m-select-option">
+            无锡食品配送平台
+        </button>
+        
+        <button type="button" value="8bb1fe429d0b462099696a0bd356dd76" tabindex="-1" class="m-select-option">
+            青岛四方商场
+        </button>
+        
+        <button type="button" value="00048dcdd6b14e9b998fba36c258bebb" tabindex="-1" class="m-select-option">
+            泉州丰泽商场
+        </button>
+        
+        <button type="button" value="a680827df00f4eaca62ce19539722f0a" tabindex="-1" class="m-select-option">
+            潍坊商场
+        </button>
+        
+        <button type="button" value="e43cd6231e4c467186a5e95bde01cc48" tabindex="-1" class="m-select-option">
+            沈阳浑南商场
+        </button>
+        
+        <button type="button" value="faf51672d2374f409aaec3f615ba0170" tabindex="-1" class="m-select-option">
+            沈阳铁西商场
+        </button>
+        
+        <button type="button" value="cc4b32be1303408eb121087c8ed1463c" tabindex="-1" class="m-select-option">
+            深圳宝安商场
+        </button>
+        
+        <button type="button" value="beedbed02cc9437c84f058fa209ed424" tabindex="-1" class="m-select-option">
+            深圳罗湖商场
+        </button>
+        
+        <button type="button" value="c3403e49fd7e466cb41bb267547e8331" tabindex="-1" class="m-select-option">
+            深圳南山商场
+        </button>
+        
+        <button type="button" value="1a5c2561c73d42179d64670a2c8f7a86" tabindex="-1" class="m-select-option">
+            常熟商场
+        </button>
+        
+        <button type="button" value="a51d8e3ffc9d4c51a63fd718f25ce392" tabindex="-1" class="m-select-option">
+            苏州高新区商场
+        </button>
+        
+        <button type="button" value="cfed441a7715482ab746ec0601eae818" tabindex="-1" class="m-select-option">
+            苏州昆山商场
+        </button>
+        
+        <button type="button" value="43e3c0913570450db058b224d1062959" tabindex="-1" class="m-select-option">
+            苏州吴中商场
+        </button>
+        
+        <button type="button" value="783560c2dc4d4b3cbec1d8ca69561650" tabindex="-1" class="m-select-option">
+            台州开发区商场 
+        </button>
+        
+        <button type="button" value="890dfca4d4904c0792eabe61a430e079" tabindex="-1" class="m-select-option">
+            天津滨海新区商场
+        </button>
+        
+        <button type="button" value="13e70baf31584e7d8f9b2ca13402be2d" tabindex="-1" class="m-select-option">
+            天津红桥商场
+        </button>
+        
+        <button type="button" value="d326483b02414ca9a959ce55e88d3b57" tabindex="-1" class="m-select-option">
+            武汉洪山商场
+        </button>
+        
+        <button type="button" value="7dcbe92556934673b7e174c331bb9d95" tabindex="-1" class="m-select-option">
+            武汉汉阳商场
+        </button>
+        
+        <button type="button" value="03b70300959243a9bf7f516172d6d9b2" tabindex="-1" class="m-select-option">
+            武汉盘龙商场
+        </button>
+        
+        <button type="button" value="1846197571524f7baf08c4c14baec5d3" tabindex="-1" class="m-select-option">
+            武汉硚口商场
+        </button>
+        
+        <button type="button" value="b755e4f8dbe24e4bb62d9e689bafdb94" tabindex="-1" class="m-select-option">
+            芜湖商场
+        </button>
+        
+        <button type="button" value="1c080f3ff1a94b7c93fc2a5193b46207" tabindex="-1" class="m-select-option">
+            无锡惠山商场
+        </button>
+        
+        <button type="button" value="766ebd14f4fd4042b7924a87ada64a63" tabindex="-1" class="m-select-option">
+            无锡江阴商场
+        </button>
+        
+        <button type="button" value="6b3ce6b6d27b45e49535d27db41f8931" tabindex="-1" class="m-select-option">
+            无锡锡山商场
+        </button>
+        
+        <button type="button" value="eacd7dfeb8fb4b5fbaf39db1abff48ab" tabindex="-1" class="m-select-option">
+            厦门湖里商场
+        </button>
+        
+        <button type="button" value="7339cb609e9340ca89a72df6b9d5f99e" tabindex="-1" class="m-select-option">
+            西安浐灞商场
+        </button>
+        
+        <button type="button" value="208c1d0e7b2f459fa2648ce6e78235c0" tabindex="-1" class="m-select-option">
+            襄阳高新区商场
+        </button>
+        
+        <button type="button" value="7689c2038f8a46bca4573993d94745f0" tabindex="-1" class="m-select-option">
+            西安雁塔商场
+        </button>
+        
+        <button type="button" value="7a78f06795904167b49955f29f97755b" tabindex="-1" class="m-select-option">
+            徐州开发区商场
+        </button>
+        
+        <button type="button" value="02bd5598177c462eb2f3caa41e8b61cd" tabindex="-1" class="m-select-option">
+            扬州邗江商场
+        </button>
+        
+        <button type="button" value="8a38a5431bba4bcdab6b2735e6edc019" tabindex="-1" class="m-select-option">
+            烟台芝罘商场
+        </button>
+        
+        <button type="button" value="70316fea779e4fbbb164a1e9e5b0044c" tabindex="-1" class="m-select-option">
+            宜昌西陵商场
+        </button>
+        
+        <button type="button" value="19bf61732a63470794dd612b9b1087c3" tabindex="-1" class="m-select-option">
+            银川兴庆商场
+        </button>
+        
+        <button type="button" value="fd2e868d230649f4b2718a061e55fa65" tabindex="-1" class="m-select-option">
+            绍兴商场
+        </button>
+        
+        <button type="button" value="dff1c8b9807e468c8a705ea2faf5c6db" tabindex="-1" class="m-select-option">
+            郑州郑东商场
+        </button>
+        
+        <button type="button" value="2c4d5d1e59b64d8c8e395077be9ad4fe" tabindex="-1" class="m-select-option">
+            中山西区商场
+        </button>
+        
+        <button type="button" value="216d01aa5b244aeeb0b7c52ace0a1aa6" tabindex="-1" class="m-select-option">
+            淄博张店商场
+        </button>
+        
+    <button type="button" id="norecorddata" tabindex="-1" style="cursor: not-allowed; display: none; pointer-events: none" class="m-select-option">
+      No Stores Found
+    </button>
+</div>
+
+            
+	    </div>
+            <svg viewBox="0 0 32 32" data-name="Ebene 1" class="m-icon m-select-chevron">
+                <defs></defs><path class="cls-1" d="M9.71,19.29,16,25.59l6.29-6.29a1,1,0,0,1,1.41,1.41l-7,7a1,1,0,0,1-1.41,0l-7-7a1,1,0,1,1,1.41-1.41Zm12.59-6.59L16,6.41,9.71,12.71a1,1,0,0,1-1.41-1.41l7-7a1,1,0,0,1,1.41,0l7,7a1,1,0,0,1-1.41,1.41Z"></path></svg>
+        </div>
+        <div class="m-col-sm2of8 formelement">
+            <button type="button" class="m-button m-button-primary m-button-block m-button-store-change">
+                选择商场
+            </button>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+        </div>
+
+
+        <div class="m-header-searchField" role="form" id="search">
+            <div class="m-input">
+
+                <div class="m-input-elementWrapper">
+
+                    <input name="pageph_0$UIHeader$ctl02$ControlSearchField" type="text" id="pageph_0_UIHeader_ctl02_ControlSearchField" class="m-input-element m-input-searchbox" placeholder="葡萄酒" />
+
+                    <a role="button" tabindex="-1"
+                        class="m-input-search"
+                        data-ss1506077364="1">
+                        <svg id="Ebene_1" viewBox="0 0 32 32" data-name="Ebene 1" class="m-icon white"
+                            style="font-size: 0.75rem;">
+                            <defs></defs>
+                            <path class="cls-1"
+                                d="M31.71,30.29,21,19.59A11.94,11.94,0,1,0,19.59,21L30.29,31.71a1,1,0,0,0,1.41-1.41ZM2,11.91a9.91,9.91,0,1,1,9.91,9.91A9.92,9.92,0,0,1,2,11.91Z">
+                            </path>
+                        </svg>
+                    </a>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="m-header-content">
+        </div>
+
+    </div>
+
+</header>
+
+
+
+
+<div class="off-canvas" style="height: 100% !important; overflow: auto;">
+	<nav id="nav" class="main-nav level-1 m-sidebarNavigation m-sidebarNavigation-isFullWidth">
+		<ul data-level="1">
+			<li class="has-children">
+				<a id="nav-stores" class="m-sidebarNavigation-link" role="button">
+					<svg viewBox="0 0 32 32" data-name="Ebene 1" class="m-icon m-sidebarNavigation-icon m-store-open" style="font-size: 1rem; top: 1.1rem">
+						<defs></defs><path class="cls-1" d="M16,32a1,1,0,0,1-.59-.19c-.5-.36-12.15-8.89-12.15-18.42C3.26,5.76,8.74,0,16,0S28.74,5.76,28.74,13.39c0,9.53-11.66,18.06-12.15,18.42A1,1,0,0,1,16,32ZM16,2C9.88,2,5.26,6.9,5.26,13.39c0,7.37,8.42,14.52,10.74,16.35,2.32-1.83,10.74-9,10.74-16.35C26.74,6.9,22.12,2,16,2Zm0,18.26a7.52,7.52,0,1,1,7.52-7.52A7.53,7.53,0,0,1,16,20.26Zm0-13a5.52,5.52,0,1,0,5.52,5.52A5.53,5.53,0,0,0,16,7.22Z"></path></svg>
+					我的麦德龙商场
+					<svg viewBox="0 0 32 32" data-name="Ebene 1" class="m-icon m-sidebarNavigation-chevron blue-tint-50" style="font-size: 1.2rem;">
+						<defs></defs>
+						<path class="cls-1" d="M12,8a1,1,0,0,1,1.71-.7l8,8.16a1,1,0,0,1,0,1.4L14,24.7a1,1,0,0,1-1.43-1.4l7-7.14L12.29,8.7A1,1,0,0,1,12,8Z"></path>
+					</svg>
+				</a>
+				<div class="children">
+					<a class="back m-sidebarNavigation-link nav-store" role="button">
+						<h2>
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-name="Ebene 1" class="m-icon m-sidebarNavigation-icon grey-tint-60 nav-store" style="font-size: 1.2rem;">
+								<path d="M28,16a1,1,0,0,1-1,1H7.41l7.3,7.29a1,1,0,0,1,0,1.42A1,1,0,0,1,14,26a1,1,0,0,1-.71-.29l-9-9a.93.93,0,0,1-.21-.33.94.94,0,0,1,0-.76.93.93,0,0,1,.21-.33l9-9a1,1,0,1,1,1.42,1.42L7.41,15H27A1,1,0,0,1,28,16Z"></path></svg>
+							<span>我的麦德龙商场</span>
+						</h2>
+					</a>
+					<ul data-level="2" class="m-store-placeholder"></ul>
+				</div>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+
+<div class="m-main-navigation" id="mainNavigation" data-name="True">
+	<nav class="m-mainNavigation" role="navigation">
+		
+		<ul role="menubar" class="menu-list">
+			
+					<li class="mainNav-item">
+						
+
+							<a id="menuitems_1" role="link" aria-haspopup="true" aria-selected="false" target="" href="http://www.metro.cn/" class="m-mainNavigation-item">
+								首页
+							</a>
+							
+
+							<div class="m-compositeDropdown-container fullwidth">
+								<div role="menu" class="submenu m-row" aria-labelledby="menuitems_2">
+									
+								</div>
+							</div>
+						
+						
+					</li>
+				
+					<li class="mainNav-item">
+						
+						
+							<div class="nav-item">
+								<a id="menuitems_3" role="link" aria-haspopup="true" aria-selected="false" target="" href="http://www.metro.cn/about-metro" class="m-mainNavigation-item">
+									关于麦德龙
+								</a>
+								<div class="m-compositeDropdown-container singleColumnMenu">
+									<div role="menu" class="submenu m-row singlecolumn" aria-labelledby="menuitems_2">
+										
+												<a class="m-main-navigation2" id="s_7034fd62153441b3a7f0c551edbf1a80" target="" href="http://www.metro.cn/about-metro/mcc-cn" >
+													麦德龙中国
+												</a>
+												<div class="navigation3">
+													
+												</div>
+											
+												<a class="m-main-navigation2" id="s_f408240b96cf42a7bccd8b398381adef" target="" href="http://www.metro.cn/about-metro/corporate-social-responsibility" >
+													企业社会责任
+												</a>
+												<div class="navigation3">
+													
+												</div>
+											
+									</div>
+								</div>
+							</div>
+						
+					</li>
+				
+					<li class="mainNav-item">
+						
+
+							<a id="menuitems_3" role="link" aria-haspopup="true" aria-selected="false" target="" href="http://www.metro.cn/choice-of-professional1708" class="m-mainNavigation-item">
+								行家之选
+							</a>
+							
+
+							<div class="m-compositeDropdown-container fullwidth">
+								<div role="menu" class="submenu m-row" aria-labelledby="menuitems_2">
+									
+											
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_9e60658c58424f6c8a207a7da8e62158" target="" href="http://www.metro.cn/choice-of-professional1708/chef" >
+												专业
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_7e69f0462e97423e8da90e2335af7581" target="" href="http://www.metro.cn/choice-of-professional1708/coffee-lover" >
+												精致
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_efa84bcf5825464182321f574ab87deb" target="" href="http://www.metro.cn/choice-of-professional1708/private-chef" >
+												新鲜
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_84ebc8a7be3945b9895095160896307b" target="" href="http://www.metro.cn/choice-of-professional1708/sommelier" >
+												品质
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_08c04eeaef654c1da680acabab685fd4" target="" href="http://www.metro.cn/choice-of-professional1708/yoga" >
+												安全
+											</a>
+											
+											</div>
+											
+										
+								</div>
+							</div>
+						
+						
+					</li>
+				
+					<li class="mainNav-item">
+						
+
+							<a id="menuitems_4" role="link" aria-haspopup="true" aria-selected="false" target="" href="http://www.metro.cn/online-mall" class="m-mainNavigation-item">
+								网上购物
+							</a>
+							
+
+							<div class="m-compositeDropdown-container fullwidth">
+								<div role="menu" class="submenu m-row" aria-labelledby="menuitems_2">
+									
+								</div>
+							</div>
+						
+						
+					</li>
+				
+					<li class="mainNav-item">
+						
+
+							<a id="menuitems_5" role="link" aria-haspopup="true" aria-selected="false" target="" href="http://www.metro.cn/promotions" class="m-mainNavigation-item">
+								促销活动
+							</a>
+							
+
+							<div class="m-compositeDropdown-container fullwidth">
+								<div role="menu" class="submenu m-row" aria-labelledby="menuitems_2">
+									
+											
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_566112e16754456892e74153582f6c07" target="" href="http://www.metro.cn/promotions/woty2019" >
+												麦德龙2019“年度精选葡萄酒”
+											</a>
+											
+											</div>
+											
+										
+								</div>
+							</div>
+						
+						
+					</li>
+				
+					<li class="mainNav-item">
+						
+
+							<a id="menuitems_6" role="link" aria-haspopup="true" aria-selected="false" target="" href="http://www.metro.cn/own-brands" class="m-mainNavigation-item">
+								自有品牌
+							</a>
+							
+
+							<div class="m-compositeDropdown-container fullwidth">
+								<div role="menu" class="submenu m-row" aria-labelledby="menuitems_2">
+									
+											
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_dbfab881d68741e7948df9e212660718" target="" href="http://www.metro.cn/own-brands/aka" >
+												宜客
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_7261c6c7e73947e583e51cb1b231cb42" target="" href="http://www.metro.cn/own-brands/fine-life" >
+												荟食
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_5aa3c3af95c94229aa8ea45f9420c100" target="" href="http://www.metro.cn/own-brands/metro-chef" >
+												METRO Chef
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_890cee36ed2c48d1bbd8980e5b24ece4" target="" href="http://www.metro.cn/own-brands/metro-professional" >
+												METRO Professional
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_a3622a22e3d14f649462584f929bfd97" target="" href="http://www.metro.cn/own-brands/sigma" >
+												喜迈
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_597ac17c879e4292a5d5675e0cdc3e0e" target="" href="http://www.metro.cn/own-brands/tarrington-house" >
+												亭轩
+											</a>
+											
+											</div>
+											
+										
+								</div>
+							</div>
+						
+						
+					</li>
+				
+					<li class="mainNav-item">
+						
+
+							<a id="menuitems_7" role="link" aria-haspopup="true" aria-selected="false" target="" href="http://www.metro.cn/starfarm" class="m-mainNavigation-item">
+								麦咨达
+							</a>
+							
+
+							<div class="m-compositeDropdown-container fullwidth">
+								<div role="menu" class="submenu m-row" aria-labelledby="menuitems_2">
+									
+											
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_8bbd9e22e33e4db4843f85bea8aaf790" target="" href="http://www.metro.cn/starfarm/aquatic" >
+												水产类
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_6f877041f39f493aafcf3a0611e98c41" target="" href="http://www.metro.cn/starfarm/general" >
+												综合类
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_bd7987a405f043e1b4d5b2eab4b5c88b" target="" href="http://www.metro.cn/starfarm/livestock" >
+												畜禽类
+											</a>
+											
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_61ceb94373c84c1f82556e8a3d411854" target="" href="http://www.metro.cn/starfarm/vegetables-fruit" >
+												水果蔬菜类
+											</a>
+											
+											</div>
+											
+										
+								</div>
+							</div>
+						
+						
+					</li>
+				
+					<li class="mainNav-item">
+						
+
+							<a id="menuitems_8" role="link" aria-haspopup="true" aria-selected="false" target="" href="http://www.metro.cn/assortment" class="m-mainNavigation-item">
+								核心品类
+							</a>
+							
+
+							<div class="m-compositeDropdown-container fullwidth">
+								<div role="menu" class="submenu m-row" aria-labelledby="menuitems_2">
+									
+											
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_d09eb76cf14e478095a92b739905a3cb" target="" href="http://www.metro.cn/assortment/meat" >
+												肉类
+											</a>
+											
+													<a class="m-main-navigation3" id="s_204cc2505375447fb59880b159263183" target="" href="http://www.metro.cn/assortment/meat/beef" >
+														牛肉
+													</a>
+												
+													<a class="m-main-navigation3" id="s_f2766cd5de30486e830ef439549a659c" target="" href="http://www.metro.cn/assortment/meat/pork" >
+														猪肉
+													</a>
+												
+													<a class="m-main-navigation3" id="s_fe992d0f3cb4465a8bc94dadbfaf0629" target="" href="http://www.metro.cn/assortment/meat/poultry" >
+														鸡肉
+													</a>
+												
+											
+										
+											
+
+											<a class="m-main-navigation2" id="s_2eb14889939f4ef9bf8d2ee6c9780310" target="" href="http://www.metro.cn/assortment/wine" >
+												葡萄酒
+											</a>
+											
+													<a class="m-main-navigation3" id="s_b215a9b5a04a4c54b49a1cb86f7fc406" target="" href="http://www.metro.cn/assortment/wine/french-wine" >
+														法国红酒
+													</a>
+												
+													<a class="m-main-navigation3" id="s_af25377ec9e4424cb819b89d5e5a1064" target="" href="http://www.metro.cn/assortment/wine/italian-wine" >
+														意大利红酒
+													</a>
+												
+													<a class="m-main-navigation3" id="s_2c6d22b37c4c4585bd13ce6afb69fd71" target="" href="http://www.metro.cn/assortment/wine/new-world" >
+														新世界红酒
+													</a>
+												
+													<a class="m-main-navigation3" id="s_84ecefd71c9a48b49f180973401e57f1" target="" href="http://www.metro.cn/assortment/wine/wine-topic" >
+														葡萄酒专栏
+													</a>
+												
+											
+										
+											</div>
+												
+												<div class="m-col-xs1of6">
+											
+
+											<a class="m-main-navigation2" id="s_b1c68ea1615e40c4821ad2d7c6911dc6" target="" href="http://www.metro.cn/assortment/fish" >
+												鱼类
+											</a>
+											
+													<a class="m-main-navigation3" id="s_845891dd94c84e55982782a22031607e" target="" href="http://www.metro.cn/assortment/fish/fresh-seafood" >
+														冰鲜海鱼类
+													</a>
+		
+
+
+
+
+#######################################################
