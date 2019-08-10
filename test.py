@@ -1120,46 +1120,205 @@
 # soup.b.parent
 # soup.b.parents
 
-
-start_urls = ['https://app.bilibili.com/x/v2/feed/index?ad_extra='
-                  '2F160688A991F9E874393027277D85422F5D26B73238F4'
-                  '95719706F7F69C8485FF36E2FDEDDDDA0C080EB4FEFCE5AEC'
-                  '82C9AFC0569F4FCF3DD3E33EC93D7E653857B7E4DEAD038A38A'
-                  '1042A0ED26DA723A0D0BA60C241B4B54420DA0BE2E10BD3'
-                  'A948E2B5F44657D491C165F1FFD9BF24C7914418063E8B8'
-                  'B713592526A49376055C964BA80A28D46FF88D87AB0F5FE'
-                  '2C3E4576D02086EA1F327FE38DDC1EB8650A8E30FD203A66'
-                  'D217191413C40F3D6313F82BAC30DA18FA10925CFF98F850'
-                  '4D52E7764D326958134A8B5270E06518355AA427AFDA3C10'
-                  'F6F42E5D65D1547C59018A5E54FDD7EB04B36E5BBB22ABC7'
-                  'DEB1A4D97BDB3A75DAA2E15C35EFCC3073B3BBADC65A3C1D'
-                  'B910ECEA96033B62289966A87C934626F0FD4719724D4F00'
-                  '2B05CECCC3F1A62A4CFD2E8F98D6D7A94E9757EFB775A5B841'
-                  '9E31BEBB1685CC83E8F6BFDE1EA2626C0A49A5E284D1032B8'
-                  '3BE8945161F834A36169B8674D0A5F8A932C3470A0898E42B0'
-                  'E91F9EE8CC5E904429FC0F3B890A4205A6150B9D4A1539B9CF8'
-                  '183B1A3086E4A562A97300FD4CC1932B46609D98991AF7895DB'
-                  '0D2C77F2BD7E9D9271FAF14E6E8DF859A5B4F2C658AD8C61993'
-                  '3F20251603AB339B0A7FF72A4E345CEC2E53BE217F46C8C3F5F'
-                  '10D8E78A0B27A485C15ECE65E438F0A4EA1429A3635EA04E9C4'
-                  '4994212486E019B35208E84F06AF310170F5B6B462BBE1454EA'
-                  '520D4A00506AC08B5BC36FC528F804BB64123FCF0CC1382AD77'
-                  'ED35896939335A2F0DD1AB395B9F2DC027B80B3B1AB40233EAB'
-                  '4B04F1DE16A8B7EF607CE829F8D96D6FF5EF2216D55A81C4581'
-                  '2817050E504A3E8EB1862E44A7D72CF1CCAD0FDFE71CC295F30'
-                  '6869BC0B6E75AE&appkey=1d8b6e7d45233436&autoplay_car'
-                  'd=0&build=5452100&channel=baidu&column=2&device_nam'
-                  'e=MI%202A&device_type=0&flush=0&fnval=16&fnver=0&fo'
-                  'rce_host=0&fourk=0&idx=0&login_event=1&mobi_app=and'
-                  'roid&network=wifi&open_event=cold&platform=android&'
-                  'pull=true&qn=32&recsys_mode=0&statistics=%7B%22abte'
-                  'st%22%3A%22%22%2C%22platform%22%3A3%2C%22version%22'
-                  '%3A%225.45.2%22%2C%22appId%22%3A1%7D&ts=1565310374&'
-                  'sign=6998923c0eb6fabc515baa6e4f8d4d9f%20']
-print(start_urls[0])
+# import requests
+# from lxml import etree
+# import json
+# import xml.dom.minidom
+# url = 'http://app.bilibili.com/x/v2/feed/index?ad_extra=2F160688A991F9E874393027277D85422F5D26B73238F495719706F7F69C8485FF36E2FDEDDDDA0C080EB4FEFCE5AEC82C9AFC0569F4FCF3DD3E33EC93D7E653857B7E4DEAD038A38A1042A0ED26DA723A0D0BA60C241B4B54420DA0BE2E10BD3A948E2B5F44657D491C165F1FFD9BF24C7914418063E8B8B713592526A493762B0B216CEFC0611FE5A9A5F217A068415184F39FB718A6712C03E3996F14ADCD1EE4BAC0950749E32692415DCC6855D387BEF95B201E7B4E29E50845F8F96931671355E3590A8161400DDFE726EB1B550ADDC2B4B390090A5E229EE0C9112ACF6A00E69A26619B3AE3B9DFD7BEBE2B50493B96B3280D0C468DC89B51FFE30DFC86F21EA4CDF077BCE10112D53841024DFFE0C233C2E896526C7FEC6288ED8C002F10D7AEC376D4D4531063162F1B8534734AA0DB16BC4F608322416A3D3AA59E2BB9CEBCCCAF2459D1091A61C707E281D025B94106853EC2ECA7037C868733FA2EA9782C92420975FAF8E4400036CFB5DB43F9796C19F0868E5F312984FF68B37BCD850EA1AA2362DA2EA529C1E2B141D8043BC7B411656890A31F162AEC8DB7028F2EECA6F4979856853F3DB05A9F985D4CCFD6F417FB61C7968526BF12CEEB966E686AA7F84BE7B3760FC7B5225BC30FDAFE251EB06FF088BBEB63EF430E16760AED3AB47E11C8283633E535C45EF7F02CF04134E4AE3BEF462DBB7510CD3AB9E72C56C33CAEC6426C22C17EE568BF84391D4CECA53B95BA2AD05C52ACF97CD8CE6E6C0BE41720286A328EAE9B599B03EE97A0C4EE70D815841C929031035FDCD5AE92D5775C1E2172E15A61ACE4882D3F1894B8103B231D97E507CDBDB7627C8E44A5FA1A2B6455D2EE2D2AE360A15AD74B80B5D1AAD3E8C8177A187D011B9B653330F63B70EEBE1E9F8673ACB8B4C71DE0BA11FBE45B2A0C14980BA9A2D53BE4CE8C0B8E0CC7E262C351EE1178C074333B2EB2A1622760FC466C0ADD3CE6&appkey=1d8b6e7d45233436&autoplay_card=2&banner_hash=1859392622370587906&build=5452100&channel=baidu&column=3&device_name=MI%202A&device_type=0&flush=0&fnval=16&fnver=0&force_host=0&fourk=0&idx=1565338597&login_event=0&mobi_app=android&network=wifi&open_event=&platform=android&pull=false&qn=32&recsys_mode=0&statistics=%7B%22abtest%22%3A%22507_801%22%2C%22platform%22%3A3%2C%22version%22%3A%225.45.2%22%2C%22appId%22%3A1%7D&ts=1565338883&sign=0d0b7a6fff8621ba6eedcab2666a70cc'
+# headers = {"User-Agent":"Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.9.168 Version/11.50"}
+# res = requests.get(url=url,headers=headers)
+# res.encoding = "utf-8"
+# html = res.text
+# html = json.loads(html)
+# f = open('弹幕文字.txt','a',encoding="utf-8")
+#
+# for i in html["data"]["items"]:
+#     if i["card_goto"]=="av":
+#         print("视频标题：",i["title"])
+#         print("up主名称：",i["args"]["up_name"])
+#         print("视频编号：",'av'+str(i["args"]["aid"]))
+#         print("弹幕编号：",str(i["player_args"]["cid"]))
+#         cid_xml = 'http://comment.bilibili.com/'+str(i["player_args"]["cid"])+'.xml'
+#         res_cid = requests.get(url=cid_xml)
+#         res_cid.encoding = "utf-8"
+#         cid_html = res_cid.content
+#         parse_cid_html = etree.HTML(cid_html)
+#         comment_list = parse_cid_html.xpath('//d/text()')
+#         commentid_list = parse_cid_html.xpath('//d/@p')
+#         f.write('视频标题：'+i["title"]+'\n'+'up主名称：'+i["args"]["up_name"]+'\n'+'弹幕数量：'+str(len(comment_list))+'条'+'\n\n')
+#         for r in range(len(comment_list)):
+#             f.write(commentid_list[r][0:10]+':'+comment_list[r]+'\n\n')
+# f.close()
 
 
+# import requests
+# from selenium import webdriver
+# from lxml import etree
+# import time
+#
+# # 打开chrome的方式
+# # options = webdriver.ChromeOptions()
+# # options.binary_location = r"C:\Program Files (x86)\ChromeCore\ChromeCoreLauncher.exe"
+# # browser = webdriver.Chrome(options=options)
+#
+# # 把Chrome设置无界面浏览器
+# opt= webdriver.ChromeOptions()
+# opt.binary_location=r"C:\Program Files (x86)\ChromeCore\ChromeCore.exe"
+#
+#
+# # 创建浏览器对象
+# driver = webdriver.Chrome(options=opt)
+#
+# driver.get('http://www.cwl.gov.cn/kjxx/ssq/kjgg')
+# click_100 = driver.find_element_by_xpath('//li[@data-xq="100"]')
+# click_100.click()
+# driver.save_screenshot('近100期的数据.png')
+# html = driver.page_source
+# driver.page_source.encode(encoding = 'utf-8')
+# parseHtml = etree.HTML(driver.page_source)
+# rq1 = parseHtml.xpath('//span[@class="rq1"]/text()')
+# bq1 = parseHtml.xpath('//span[@class="bq1"]/text()')
+# f = open('双色球数据.txt','w',encoding="utf-8")
+# str_rq1 = ','.join(rq1)
+# str_bq1 = ','.join(bq1)
+# f.write('双色球红色：\n'+str_rq1+'\n\n'+"双色球蓝色：\n"+str_bq1)
+# count_num = []
+# for i in range(1,10):
+#     count_num.append(rq1.count('0'+str(i)))
+# for i in range(10,34):
+#     count_num.append(rq1.count(str(i)))
+# f.write("\n\n计算每个数字出现的次数如下：\n")
+# for i in range(len(count_num)):
+#     f.write('红色'+str(i+1)+'出现的次数：'+str(count_num[i])+'\n')
+#
+# count_bluenum = []
+# for i in range(1,10):
+#     count_bluenum.append(bq1.count('0'+str(i)))
+# for i in range(10,17):
+#     count_bluenum.append(bq1.count(str(i)))
+# f.write("\n\n计算每个数字出现的次数如下：\n")
+# for i in range(len(count_bluenum)):
+#     f.write('蓝色'+str(i+1)+'出现的次数：'+str(count_bluenum[i])+'\n')
+#
+#
+# print("Done")
+#
+# f.close()
+# # driver.page_source.encode(encoding = 'utf-8')
+# driver.close()
 
+# import math
+# from numpy.linalg import *
+#
+# import numpy as np
+# def gmmodeling(x0, pattern):
+#     r0 = ['None']
+#     # print('x0:',x0)
+#     for k in range(1, int(len(x0))):  # 计算级比
+#         r0.append(x0[k - 1] / x0[k])
+#     x1 = []
+#     x1.append(x0[0])
+#     for i in range(1, int(len(x0))):  # 对x0累加，生成x1
+#         x1.append(x0[i] + x1[i - 1])
+#     # print('x1:',x1)
+#     B = []
+#     Y = []
+#     # 构造数据矩阵B和数据向量Y
+#     for i in range(0, int(len(x0)) - 1):
+#         B.append([(-0.5) * (x1[i] + x1[i + 1]), 1])
+#     for i in range(1, int(len(x0))):
+#         Y.append(x0[i])
+#     B = np.array(B)
+#     Y = np.array(Y)
+#     # U1 = np.dot(B.transpose(),B)
+#     # print(U1)
+#     # 一元线性回归，算的u==【（a），（b）】中a，b的值
+#     u = np.dot(np.dot(np.linalg.inv(np.dot(B.transpose(), B)), B.transpose()), Y)
+#     a = u[0]
+#     b = u[1]
+#     xa0 = ['None']  # 作为模型还原值
+#     xa1 = []  # 预测模型
+#     for k in range(0, int(len(x0))):
+#         xa1.append((x1[0] - b / a) * math.e ** (-(a * (k))) + b / a)
+#     xa1[0] = x0[0]
+#     # print('xa1:',xa1)
+#     xa0[0] = x0[0]
+#     for k in range(1, int(len(x0))):
+#         xa0.append(xa1[k] - xa1[k - 1])
+#     # print('a: ',a)
+#     # print('b: ',b)
+#     if pattern == 0:
+#         return xa0
+#     elif pattern == 1:
+#         return a
+#     elif pattern == 2:
+#         return r0
+#     elif pattern == 3:
+#         k = int(len(x0))
+#         xa1.append((x0[0] - b / a) * math.e ** (-(a * (k))) + b / a)
+#         xa0.append(xa1[k] - xa1[k - 1])
+#         # print('new xa1: ', xa1)
+#         # print(xa0)
+#         return xa0[k]
+#
+#
+# a = '09,17,27,28,32,33,07,10,21,24,29,32,02,03,06,08,14,22,02,04,14,16,20,22,13,14,15,21,23,29,04,05,07,09,21,30,16,22,24,26,28,31,01,04,14,18,24,29,04,08,14,18,20,27,06,15,17,26,28,31,07,16,19,22,24,28,05,24,27,29,31,32,03,06,08,20,24,32,01,03,06,09,19,31,01,17,27,29,31,33,09,11,13,18,21,22,12,15,19,20,29,32,05,08,20,22,31,33,12,21,27,29,31,33,01,02,06,12,16,18,02,09,13,15,22,30,01,08,19,24,29,30,06,15,18,19,24,32,06,11,16,19,21,25,03,14,20,24,26,33,04,06,08,11,30,33,01,14,17,20,22,32,06,09,11,15,20,26,12,20,24,25,30,33,01,14,19,22,29,31,07,13,16,23,26,30,03,17,19,24,27,31,03,04,14,20,23,27,04,05,07,09,16,18,07,08,12,21,23,27,04,05,06,08,13,18,13,14,17,19,21,29,01,06,11,15,19,31,07,10,11,15,24,26,04,16,22,25,29,31,03,06,09,13,16,19,08,09,10,13,15,28,04,06,10,11,21,23,03,10,13,22,23,28,03,07,10,12,18,29,03,11,18,25,30,33,02,12,16,22,25,32,01,06,17,19,27,31,06,14,16,17,23,29,01,06,12,13,24,32,15,17,19,22,25,26,02,09,13,23,24,26,05,06,09,18,23,31,06,07,11,14,27,32,09,12,21,27,29,30,01,07,12,14,18,25,02,10,13,16,23,32,01,05,07,09,10,20,09,11,15,22,24,26,09,15,19,21,23,29,04,08,09,13,28,33,03,13,15,18,21,33,04,05,07,10,12,22,08,11,17,23,32,33,04,19,22,26,29,30,02,06,08,10,11,17,03,13,15,19,20,27,15,16,21,27,30,33,01,08,23,25,28,29,01,10,14,15,18,31,03,07,11,21,30,33,02,05,07,08,20,27,02,12,13,23,27,28,03,11,17,18,24,25,04,11,18,19,26,32,04,05,24,28,30,33,05,07,09,11,19,25,11,15,16,20,24,31,01,02,03,14,19,33,05,07,14,16,18,21,07,10,21,23,31,33,10,13,19,21,24,30,02,04,05,08,11,30,01,07,10,22,31,32,02,06,09,13,28,32,06,10,14,15,19,23,01,05,10,19,26,28,21,22,26,28,31,32,08,12,16,19,26,32,13,17,20,21,22,27,04,05,06,08,09,18,06,10,13,15,32,33,01,07,17,23,25,31,04,14,16,23,28,29,05,15,19,25,26,29,06,08,15,19,20,31,01,07,08,10,12,24,03,06,18,19,21,31,03,15,17,23,27,30,02,10,11,17,18,29'
+# b = '08,11,04,11,13,04,06,04,03,03,02,10,07,16,12,15,14,03,04,08,15,04,09,01,10,11,04,10,12,16,01,12,01,06,12,16,01,10,11,08,16,09,02,15,10,14,06,14,07,13,04,16,11,08,05,10,08,16,03,15,04,16,16,10,11,13,14,04,10,13,07,04,12,06,04,09,05,04,03,01,14,07,02,15,12,15,12,07,03,01,11,15,11,03,15,05,01,01,11,16'
+#
+# red_num_str = a.split(',')
+# red_num_int = []
+# blue_num_str = b.split(',')
+# blue_num_int = []
+# for i in range(len(red_num_str)):
+#     if red_num_str[i][0]=='0':
+#         red_num_int.append(int(red_num_str[i][1]))
+#     else:
+#         red_num_int.append(int(red_num_str[i]))
+# for i in range(len(blue_num_str)):
+#     if blue_num_str[i][0]=='0':
+#         blue_num_int.append(int(blue_num_str[i][1]))
+#     else:
+#         blue_num_int.append(int(blue_num_str[i]))
+# blue_num_int.reverse()
+# red_num_1 = []
+# red_num_2 = []
+# red_num_3 = []
+# red_num_4 = []
+# red_num_5 = []
+# red_num_6 = []
+# for i in range(len(red_num_int)):
+#     if i%6==0:
+#         red_num_1.append(red_num_int[i])
+#     elif i%6==1:
+#         red_num_2.append(red_num_int[i])
+#     elif i%6==2:
+#         red_num_3.append(red_num_int[i])
+#     elif i%6==3:
+#         red_num_4.append(red_num_int[i])
+#     elif i%6==4:
+#         red_num_5.append(red_num_int[i])
+#     elif i%6==5:
+#         red_num_6.append(red_num_int[i])
+# red_num_1.reverse()
+# red_num_2.reverse()
+# red_num_3.reverse()
+# red_num_4.reverse()
+# red_num_5.reverse()
+# red_num_6.reverse()
+#
+# print("预测红色球：",gmmodeling(red_num_1[1:],3))
+# print("预测红色球：",gmmodeling(red_num_2[1:],3))
+# print("预测红色球：",gmmodeling(red_num_3[1:],3))
+# print("预测红色球：",gmmodeling(red_num_4[1:],3))
+# print("预测红色球：",gmmodeling(red_num_5[1:],3))
+# print("预测红色球：",gmmodeling(red_num_6[1:],3))
+# print("预测蓝色球：",gmmodeling(blue_num_int[1:],3))
+
+
+if __name__=='__main__':
+	a =1
+	b=2
+	print(a+b)
 
 
 

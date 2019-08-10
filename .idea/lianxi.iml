@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/scrapyFiled/Csdn" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/scrapyFiled/Daomu" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/scrapyFiled/Bilibili" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapyFiled/JD" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/DjangoTest/buildfrompython/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />

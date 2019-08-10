@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bd8480d-7057-4de4-bf16-24e7759cdc67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a835a780-7498-404c-99d8-165bbbb46f7c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a835a780-7498-404c-99d8-165bbbb46f7c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoTest/buildfrompython/.idea/buildfrompython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoTest/buildfrompython/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoTest/buildfrompython/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoTest/buildfrompython/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoTest/buildfrompython/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/lianxi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lianxi.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storehouse.xml" beforeDir="false" afterPath="$PROJECT_DIR$/storehouse.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/spiders/bilibili.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/spiders/bilibili.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/spiders/bilibili.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="3990">
+              <caret line="135" column="46" selection-start-line="135" selection-start-column="45" selection-end-line="135" selection-end-column="46" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -86,8 +91,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1019">
-              <caret line="1157" column="50" selection-start-line="1157" selection-start-column="50" selection-end-line="1157" selection-end-column="50" />
+            <state relative-caret-position="281">
+              <caret line="1319" column="7" selection-start-line="1319" selection-start-column="7" selection-end-line="1319" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DjangoTest/FirstTest/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#84#93#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,7 +112,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="930">
               <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
               <folding>
                 <element signature="e#194#244#0" expanded="true" />
@@ -104,11 +121,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapyFiled/JD/JD/spiders/jd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapyFiled/JD/JD/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapyFiled/JD/JD/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3150">
+              <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+            <state relative-caret-position="1950">
+              <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -125,7 +169,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>big</find>
       <find>大</find>
       <find>getElementByTagName</find>
       <find>可上下移动</find>
@@ -143,11 +186,19 @@
       <find>j_th_tit</find>
       <find>types</find>
       <find>num</find>
-      <find>etree</find>
       <find>params</find>
       <find>commo</find>
       <find>MongOC</find>
       <find>mongo</find>
+      <find>lxml</find>
+      <find>requests</find>
+      <find>res</find>
+      <find>etree</find>
+      <find>Chrome</find>
+      <find>from selenium</find>
+      <find>class_name</find>
+      <find>chrome</find>
+      <find>driver.page_source</find>
     </findStrings>
     <replaceStrings>
       <replace>small</replace>
@@ -165,8 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/15chapter/templates/Show_temp.html" />
-        <option value="$PROJECT_DIR$/15chapter/show2.py" />
         <option value="$PROJECT_DIR$/15chapter/templates/Show_temp1.html" />
         <option value="$PROJECT_DIR$/15chapter/show3.py" />
         <option value="$PROJECT_DIR$/15chapter/SessionWeb.py" />
@@ -212,17 +261,18 @@
         <option value="$PROJECT_DIR$/scrapyFiled/Daomu/Daomu/middlewares.py" />
         <option value="$PROJECT_DIR$/scrapyFiled/Daomu/Daomu/settings.py" />
         <option value="$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/items.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/pipelines.py" />
         <option value="$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/settings.py" />
+        <option value="$PROJECT_DIR$/scrapyFiled/JD/JD/settings.py" />
+        <option value="$PROJECT_DIR$/scrapyFiled/JD/JD/middlewares.py" />
         <option value="$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/spiders/bilibili.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="875" />
-    <option name="y" value="1" />
-    <option name="width" value="967" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -231,7 +281,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,10 +288,16 @@
               <item name="lianxi" type="b2602c69:ProjectViewProjectNode" />
               <item name="lianxi" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lianxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lianxi" type="462c0819:PsiDirectoryNode" />
+              <item name="DjangoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,15 +426,17 @@
       <workItem from="1565239391349" duration="3813000" />
       <workItem from="1565274208783" duration="2175000" />
       <workItem from="1565316907304" duration="11107000" />
+      <workItem from="1565339616474" duration="10796000" />
+      <workItem from="1565395598591" duration="4425000" />
+      <workItem from="1565442308420" duration="2578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="407820000" />
+    <option name="totallyTimeSpent" value="425619000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973638" weight="0.485426" />
       <window_info id="Structure" order="1" sideWeight="0.5026362" side_tool="true" weight="0.18338726" />
@@ -395,7 +452,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053936" side_tool="true" weight="0.43085715" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49946064" visible="true" weight="0.35624284" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49946064" visible="true" weight="0.37037036" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.7378753" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32914287" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -435,60 +492,6 @@
     <SUITE FILE_PATH="coverage/lianxi$spider.coverage" NAME="spider Coverage Results" MODIFIED="1565055652595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestSpider" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/16chapter/djsite/polls/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16chapter/djsite/djsite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16chapter/djsite/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16chapter/djsite/polls/views1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15chapter/show.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15chapter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_english_dict/dict_insert.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -788,17 +791,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/DOM_parse_XML.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1019">
-          <caret line="1157" column="50" selection-start-line="1157" selection-start-column="50" selection-end-line="1157" selection-end-column="50" />
+        <state>
+          <caret selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="517" column="36" selection-start-line="517" selection-start-column="36" selection-end-line="517" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/spiders/bilibili.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        <state relative-caret-position="3990">
+          <caret line="135" column="46" selection-start-line="135" selection-start-column="45" selection-end-line="135" selection-end-column="46" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
@@ -807,7 +817,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="930">
           <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
           <folding>
             <element signature="e#194#244#0" expanded="true" />
@@ -815,10 +825,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapyFiled/JD/JD/spiders/jd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapyFiled/JD/JD/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapyFiled/JD/JD/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapyFiled/Bilibili/Bilibili/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        <state relative-caret-position="1950">
+          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="1319" column="7" selection-start-line="1319" selection-start-column="7" selection-end-line="1319" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DjangoTest/FirstTest/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#84#93#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
