@@ -14,8 +14,22 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, re_path,include
+from .views import *
+
+dic = {"name":"wangzhe","age":20}
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('show/',show_views),
+    re_path('^show/(\d{2})/$',show1_views),
+    re_path('(\d{4})/(\d{2})/(\d{2})/',show_bir_day),
+    re_path('^sh\d+',sh),# 正则表达式
+    path('show3/',show3,dic),
+	# 进入应用
+	re_path(r'^music/',include('music.urls')),
+	re_path(r'^sport/',include('sport.urls')) ,
+	re_path(r'^index/',include('index.urls')),
+	re_path(r'^news/',include('news.urls')) ,
+
 ]

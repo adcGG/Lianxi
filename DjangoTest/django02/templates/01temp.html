@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>01temp模板</title>
+</head>
+<body>
+<h1>这是第一个temp</h1>
+<h3>str:{{str}}</h3>
+<h3>num:{{num}}</h3>
+<h3>tup:{{tup}}</h3>
+<h3>tup[0]:{{tup.0}}</h3>
+<h3>list_name:{{list_name}}</h3>
+<h3>list_name[1]:{{list_name.1}}</h3>
+<h3>dic:{{dic}}</h3>
+<h3>say:{{say}}</h3>
+<h3>dog.name:{{dog.name}}</h3>
+<h3>dog.eat:{{dog.eat}}</h3>
+<h1>通过for实现select</h1>
+<select>
+    {% for t in tup %}
+    <option value="{{ forloop.counter0 }}"
+            {% if forloop.last %}
+            selected
+            {% endif%}
+    >{{ t }}</option>
+    {% endfor %}
+</select>
+{% for a in list_name %}
+<li>{{a}}</li>
+<p
+        {% if forloop.first %}
+        style="background: red"
+        {% elif forloop.last %}
+        style="background: #0000cc"
+        {% else %}
+        style="background: deeppink"
+        {% endif %}
+>
+
+    <span>下标：{{ forloop.counter0 }}</span>
+    <br>
+    <span>次数：{{ forloop.counter }}</span>
+    <br>
+    <span>第一次循环：{{ forloop.first }}</span>
+    <br>
+    <span>最后一次循环：{{ forloop.last }}</span>
+</p>
+{% endfor %}
+
+{% comment "宠物名称" %}
+宠物名称：{{dog.name}}
+{% endcomment %}
+<h4>过滤器：变小写list_name[2]:{{ list_name.2|lower }}</h4>
+<h4>过滤器：四舍五入（保留两位）24.3558：{{ 24.3558|floatformat:2 }}</h4>
+</body>
+</html>

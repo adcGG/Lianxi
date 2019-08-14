@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {% block title%}
+        xxx商城-首页
+        {% endblock%}
+    </title>
+</head>
+<body>
+<h1>网页头部（logo，导航）</h1>
+<h1>
+    {% for str in list_head %}
+    <span style="margin-right: 25px;">{{ str }}</span>
+    {% endfor %}
+</h1>
+{% block content %}
+    <div>网页主体内容</div>
+{% endblock %}
+<h1>底部</h1>
+
+</body>
+</html>

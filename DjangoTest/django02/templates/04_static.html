@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>static</title>
+</head>
+<body>
+<!-- 显示静态资源-->
+<p>
+    <li>src=/static/images/刺客信条.jpg</li>
+    <img src="/static/images/刺客信条.jpg">
+</p>
+<p>
+    <li>src=http://localhost:8000/static/images/刺客信条.jpg</li>
+    <img src="http://localhost:8000/static/images/刺客信条.jpg">
+</p>
+<p>
+    <li>src=static 'images/刺客信条.jpg "</li>
+    <img src="{% static 'images/刺客信条.jpg' %}">
+</p>
+
+</body>
+</html>
